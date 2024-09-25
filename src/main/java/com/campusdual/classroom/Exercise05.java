@@ -17,6 +17,7 @@ public class Exercise05 {
     }
 
     
+    
     //TODO ↓
     // Si es múltiplo, tiene que devolver el siguiente mensaje: X es múltiplo de Y
     // Si no es múltiplo, tiene que devolver el siguiente mensaje: X no es múltiplo de Y
